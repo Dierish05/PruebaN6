@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "792jYxNZKU4vEZsX/YaU6hcaoyE/tupfM6NkK+sDFNFbUDr+l8+xFSE+ytBpWgNrkBJeHh6NjSqDbmH9gj4hdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\source\\repos\\Prueba_CalendarioPago\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
